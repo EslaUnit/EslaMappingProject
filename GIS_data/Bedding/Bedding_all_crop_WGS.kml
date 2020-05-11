@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Bedding_all_crop_WGS" id="Bedding_all_crop_WGS">
+	<SimpleField name="Day" type="float"></SimpleField>
+	<SimpleField name="Number" type="float"></SimpleField>
+	<SimpleField name="Waypoint" type="float"></SimpleField>
+	<SimpleField name="X" type="float"></SimpleField>
+	<SimpleField name="Y" type="float"></SimpleField>
+	<SimpleField name="Z" type="float"></SimpleField>
+	<SimpleField name="DipDir_mea" type="float"></SimpleField>
+	<SimpleField name="Dip_measur" type="float"></SimpleField>
+	<SimpleField name="Type" type="float"></SimpleField>
+	<SimpleField name="Observatio" type="string"></SimpleField>
+	<SimpleField name="Lithology" type="string"></SimpleField>
+	<SimpleField name="Formation" type="string"></SimpleField>
+	<SimpleField name="Source" type="string"></SimpleField>
+	<SimpleField name="Strike_rhr" type="float"></SimpleField>
+	<SimpleField name="Dip_mea_st" type="float"></SimpleField>
+	<SimpleField name="Map_exerci" type="float"></SimpleField>
+</Schema>
+<Folder><name>Bedding_all_crop_WGS</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171108</SimpleData>
+		<SimpleData name="Number">171108010</SimpleData>
+		<SimpleData name="Waypoint">4</SimpleData>
+		<SimpleData name="X">-5.177545740111526</SimpleData>
+		<SimpleData name="Y">42.882230850242330</SimpleData>
+		<SimpleData name="Z">1104</SimpleData>
+		<SimpleData name="DipDir_mea">75</SimpleData>
+		<SimpleData name="Dip_measur">42</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So</SimpleData>
+		<SimpleData name="Lithology">Lancara brecha</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">345</SimpleData>
+		<SimpleData name="Dip_mea_st">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17754574011153,42.8822308502423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171108</SimpleData>
+		<SimpleData name="Number">171108052</SimpleData>
+		<SimpleData name="Waypoint">26</SimpleData>
+		<SimpleData name="X">-5.179748403078584</SimpleData>
+		<SimpleData name="Y">42.886015948027158</SimpleData>
+		<SimpleData name="Z">1177</SimpleData>
+		<SimpleData name="DipDir_mea">91</SimpleData>
+		<SimpleData name="Dip_measur">55</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So</SimpleData>
+		<SimpleData name="Lithology">Lancara wacke gris</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">1</SimpleData>
+		<SimpleData name="Dip_mea_st">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17974840307858,42.8860159480272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171114</SimpleData>
+		<SimpleData name="Number">171114003</SimpleData>
+		<SimpleData name="Waypoint">2</SimpleData>
+		<SimpleData name="X">-5.182492762216980</SimpleData>
+		<SimpleData name="Y">42.871123748795824</SimpleData>
+		<SimpleData name="Z">1081</SimpleData>
+		<SimpleData name="DipDir_mea">233</SimpleData>
+		<SimpleData name="Dip_measur">49</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So</SimpleData>
+		<SimpleData name="Lithology">Alba</SimpleData>
+		<SimpleData name="Formation">Alba</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">143</SimpleData>
+		<SimpleData name="Dip_mea_st">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18249276221698,42.8711237487958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171114</SimpleData>
+		<SimpleData name="Number">171114066</SimpleData>
+		<SimpleData name="Waypoint">38</SimpleData>
+		<SimpleData name="X">-5.186133462745500</SimpleData>
+		<SimpleData name="Y">42.875763765136050</SimpleData>
+		<SimpleData name="Z">1199</SimpleData>
+		<SimpleData name="DipDir_mea">180</SimpleData>
+		<SimpleData name="Dip_measur">78</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So contacto</SimpleData>
+		<SimpleData name="Lithology">Lancara brech-Portilla</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">90</SimpleData>
+		<SimpleData name="Dip_mea_st">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1861334627455,42.875763765136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171114</SimpleData>
+		<SimpleData name="Number">171114081</SimpleData>
+		<SimpleData name="Waypoint">47</SimpleData>
+		<SimpleData name="X">-5.186522114453098</SimpleData>
+		<SimpleData name="Y">42.873595189819504</SimpleData>
+		<SimpleData name="Z">1225</SimpleData>
+		<SimpleData name="DipDir_mea">143</SimpleData>
+		<SimpleData name="Dip_measur">86</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So</SimpleData>
+		<SimpleData name="Lithology">Lancara Dol laminada</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">53</SimpleData>
+		<SimpleData name="Dip_mea_st">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1865221144531,42.8735951898195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171114</SimpleData>
+		<SimpleData name="Number">171114087</SimpleData>
+		<SimpleData name="Waypoint">53</SimpleData>
+		<SimpleData name="X">-5.182177705865004</SimpleData>
+		<SimpleData name="Y">42.873299913061750</SimpleData>
+		<SimpleData name="Z">1107</SimpleData>
+		<SimpleData name="DipDir_mea">245</SimpleData>
+		<SimpleData name="Dip_measur">50</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So?</SimpleData>
+		<SimpleData name="Lithology">Dol sacarosa</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">155</SimpleData>
+		<SimpleData name="Dip_mea_st">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.182177705865,42.8732999130618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171115</SimpleData>
+		<SimpleData name="Number">171115027</SimpleData>
+		<SimpleData name="Waypoint">21</SimpleData>
+		<SimpleData name="X">-5.187659741245400</SimpleData>
+		<SimpleData name="Y">42.871835522613686</SimpleData>
+		<SimpleData name="Z">1209</SimpleData>
+		<SimpleData name="DipDir_mea">290</SimpleData>
+		<SimpleData name="Dip_measur">72</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So</SimpleData>
+		<SimpleData name="Lithology">Lancara brech</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">200</SimpleData>
+		<SimpleData name="Dip_mea_st">72</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1876597412454,42.8718355226137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171115</SimpleData>
+		<SimpleData name="Number">171115089</SimpleData>
+		<SimpleData name="Waypoint">76</SimpleData>
+		<SimpleData name="X">-5.182579946058210</SimpleData>
+		<SimpleData name="Y">42.871860479500540</SimpleData>
+		<SimpleData name="Z">1108</SimpleData>
+		<SimpleData name="DipDir_mea">224</SimpleData>
+		<SimpleData name="Dip_measur">61</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So</SimpleData>
+		<SimpleData name="Lithology">Grainstone blanca sobre Alba</SimpleData>
+		<SimpleData name="Formation">Ermita</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">134</SimpleData>
+		<SimpleData name="Dip_mea_st">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18257994605821,42.8718604795005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20171116</SimpleData>
+		<SimpleData name="Number">171116056</SimpleData>
+		<SimpleData name="Waypoint">35</SimpleData>
+		<SimpleData name="X">-5.179310748548924</SimpleData>
+		<SimpleData name="Y">42.888887803058189</SimpleData>
+		<SimpleData name="Z">1249</SimpleData>
+		<SimpleData name="DipDir_mea">125</SimpleData>
+		<SimpleData name="Dip_measur">90</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">So</SimpleData>
+		<SimpleData name="Lithology">Dev Sup Grainstones blancas y areniscas inmaduras</SimpleData>
+		<SimpleData name="Formation">Ermita</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">35</SimpleData>
+		<SimpleData name="Dip_mea_st">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17931074854892,42.8888878030582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20180725</SimpleData>
+		<SimpleData name="Number">180725087</SimpleData>
+		<SimpleData name="Waypoint">68</SimpleData>
+		<SimpleData name="X">-5.179253644830958</SimpleData>
+		<SimpleData name="Y">42.862225695047307</SimpleData>
+		<SimpleData name="Z">1271</SimpleData>
+		<SimpleData name="DipDir_mea">248</SimpleData>
+		<SimpleData name="Dip_measur">32</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Dolomicirta gris fract, brechas ca?das</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">158</SimpleData>
+		<SimpleData name="Dip_mea_st">32</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17925364483096,42.8622256950473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190727</SimpleData>
+		<SimpleData name="Number">190727034</SimpleData>
+		<SimpleData name="Waypoint">25</SimpleData>
+		<SimpleData name="X">-5.184388173863498</SimpleData>
+		<SimpleData name="Y">42.880083372110995</SimpleData>
+		<SimpleData name="Z">1202</SimpleData>
+		<SimpleData name="DipDir_mea">116</SimpleData>
+		<SimpleData name="Dip_measur">80</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">Pliegue</SimpleData>
+		<SimpleData name="Lithology">Base areniscosa Portilla</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">26</SimpleData>
+		<SimpleData name="Dip_mea_st">80</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1843881738635,42.880083372111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190727</SimpleData>
+		<SimpleData name="Number">190727039</SimpleData>
+		<SimpleData name="Waypoint">30</SimpleData>
+		<SimpleData name="X">-5.185382465154692</SimpleData>
+		<SimpleData name="Y">42.880154436295705</SimpleData>
+		<SimpleData name="Z">1204</SimpleData>
+		<SimpleData name="DipDir_mea">310</SimpleData>
+		<SimpleData name="Dip_measur">88</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">Pliegue</SimpleData>
+		<SimpleData name="Lithology">Portilla</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">220</SimpleData>
+		<SimpleData name="Dip_mea_st">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18538246515469,42.8801544362957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190727</SimpleData>
+		<SimpleData name="Number">190727043</SimpleData>
+		<SimpleData name="Waypoint">34</SimpleData>
+		<SimpleData name="X">-5.185764330999676</SimpleData>
+		<SimpleData name="Y">42.878139075797577</SimpleData>
+		<SimpleData name="Z">1117</SimpleData>
+		<SimpleData name="DipDir_mea">290</SimpleData>
+		<SimpleData name="Dip_measur">24</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Observatio">Pliegue</SimpleData>
+		<SimpleData name="Lithology">Calizas</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">200</SimpleData>
+		<SimpleData name="Dip_mea_st">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18576433099967,42.8781390757976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20181116</SimpleData>
+		<SimpleData name="Number">181116056</SimpleData>
+		<SimpleData name="Waypoint">55</SimpleData>
+		<SimpleData name="X">-5.156804947138800</SimpleData>
+		<SimpleData name="Y">42.872088018486522</SimpleData>
+		<SimpleData name="Z">1045</SimpleData>
+		<SimpleData name="DipDir_mea">53</SimpleData>
+		<SimpleData name="Dip_measur">20</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Lencroja</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">323</SimpleData>
+		<SimpleData name="Dip_mea_st">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1568049471388,42.8720880184865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20181204</SimpleData>
+		<SimpleData name="Number">181204046</SimpleData>
+		<SimpleData name="Waypoint">21</SimpleData>
+		<SimpleData name="X">-5.162512069681796</SimpleData>
+		<SimpleData name="Y">42.874249526634131</SimpleData>
+		<SimpleData name="Z">1009</SimpleData>
+		<SimpleData name="DipDir_mea">8</SimpleData>
+		<SimpleData name="Dip_measur">18</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Lbird</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">278</SimpleData>
+		<SimpleData name="Dip_mea_st">18</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16251206968179,42.8742495266341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190112</SimpleData>
+		<SimpleData name="Number">190112058</SimpleData>
+		<SimpleData name="Waypoint">29</SimpleData>
+		<SimpleData name="X">-5.166441832089324</SimpleData>
+		<SimpleData name="Y">42.872842488792635</SimpleData>
+		<SimpleData name="Z">1095</SimpleData>
+		<SimpleData name="DipDir_mea">26</SimpleData>
+		<SimpleData name="Dip_measur">26</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Calizas grainstone Valdore?</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">296</SimpleData>
+		<SimpleData name="Dip_mea_st">26</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16644183208932,42.8728424887926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190112</SimpleData>
+		<SimpleData name="Number">190112070</SimpleData>
+		<SimpleData name="Waypoint">38</SimpleData>
+		<SimpleData name="X">-5.170019671510470</SimpleData>
+		<SimpleData name="Y">42.874323526515866</SimpleData>
+		<SimpleData name="Z">1078</SimpleData>
+		<SimpleData name="DipDir_mea">6</SimpleData>
+		<SimpleData name="Dip_measur">25</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Baleas arenosa, con Lbrecha encima y sin sitio para Alba</SimpleData>
+		<SimpleData name="Formation">Alba</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">276</SimpleData>
+		<SimpleData name="Dip_mea_st">25</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17001967151047,42.8743235265159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190114</SimpleData>
+		<SimpleData name="Number">190114115</SimpleData>
+		<SimpleData name="Waypoint">62</SimpleData>
+		<SimpleData name="X">-5.173617445724104</SimpleData>
+		<SimpleData name="Y">42.877064744135829</SimpleData>
+		<SimpleData name="Z">1082</SimpleData>
+		<SimpleData name="DipDir_mea">44</SimpleData>
+		<SimpleData name="Dip_measur">40</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Ldolmic oscuras fracturadas</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">314</SimpleData>
+		<SimpleData name="Dip_mea_st">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1736174457241,42.8770647441358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190727</SimpleData>
+		<SimpleData name="Number">190727014</SimpleData>
+		<SimpleData name="Waypoint">9</SimpleData>
+		<SimpleData name="X">-5.179236647545786</SimpleData>
+		<SimpleData name="Y">42.878785847736999</SimpleData>
+		<SimpleData name="Z">1064</SimpleData>
+		<SimpleData name="DipDir_mea">64</SimpleData>
+		<SimpleData name="Dip_measur">10</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Lutitas oscuras y areniscas de Huergas</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">334</SimpleData>
+		<SimpleData name="Dip_mea_st">10</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17923664754579,42.878785847737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190727</SimpleData>
+		<SimpleData name="Number">190727015</SimpleData>
+		<SimpleData name="Waypoint">10</SimpleData>
+		<SimpleData name="X">-5.182457326145500</SimpleData>
+		<SimpleData name="Y">42.879147695416755</SimpleData>
+		<SimpleData name="Z">1146</SimpleData>
+		<SimpleData name="DipDir_mea">292</SimpleData>
+		<SimpleData name="Dip_measur">18</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Areniscas con algun bioclasto</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">202</SimpleData>
+		<SimpleData name="Dip_mea_st">18</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1824573261455,42.8791476954168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="Day">20190727</SimpleData>
+		<SimpleData name="Number">190727029</SimpleData>
+		<SimpleData name="Waypoint">19</SimpleData>
+		<SimpleData name="X">-5.183530067533486</SimpleData>
+		<SimpleData name="Y">42.880054724763433</SimpleData>
+		<SimpleData name="Z">1217</SimpleData>
+		<SimpleData name="DipDir_mea">112</SimpleData>
+		<SimpleData name="Dip_measur">12</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Lithology">Grainstone grises</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">22</SimpleData>
+		<SimpleData name="Dip_mea_st">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18353006753349,42.8800547247634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.184462226164936</SimpleData>
+		<SimpleData name="Y">42.862250468975489</SimpleData>
+		<SimpleData name="DipDir_mea">269</SimpleData>
+		<SimpleData name="Dip_measur">30</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">IGME</SimpleData>
+		<SimpleData name="Strike_rhr">179</SimpleData>
+		<SimpleData name="Dip_mea_st">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18446222616494,42.8622504689755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.157274921284604</SimpleData>
+		<SimpleData name="Y">42.893098565551661</SimpleData>
+		<SimpleData name="DipDir_mea">40</SimpleData>
+		<SimpleData name="Dip_measur">48</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">SanPedro</SimpleData>
+		<SimpleData name="Source">IGME</SimpleData>
+		<SimpleData name="Strike_rhr">310</SimpleData>
+		<SimpleData name="Dip_mea_st">48</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1572749212846,42.8930985655517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.182313243212684</SimpleData>
+		<SimpleData name="Y">42.866030452902258</SimpleData>
+		<SimpleData name="DipDir_mea">260</SimpleData>
+		<SimpleData name="Dip_measur">50</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">170</SimpleData>
+		<SimpleData name="Dip_mea_st">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18231324321268,42.8660304529023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.180695287694126</SimpleData>
+		<SimpleData name="Y">42.865971246994143</SimpleData>
+		<SimpleData name="DipDir_mea">262</SimpleData>
+		<SimpleData name="Dip_measur">34</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">172</SimpleData>
+		<SimpleData name="Dip_mea_st">34</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18069528769412,42.8659712469941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.181359123244520</SimpleData>
+		<SimpleData name="Y">42.867093200932253</SimpleData>
+		<SimpleData name="DipDir_mea">252</SimpleData>
+		<SimpleData name="Dip_measur">40</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">162</SimpleData>
+		<SimpleData name="Dip_mea_st">40</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18135912324452,42.8670932009323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.182558777171196</SimpleData>
+		<SimpleData name="Y">42.869870821284515</SimpleData>
+		<SimpleData name="DipDir_mea">260</SimpleData>
+		<SimpleData name="Dip_measur">46</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">170</SimpleData>
+		<SimpleData name="Dip_mea_st">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1825587771712,42.8698708212845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.180931980567518</SimpleData>
+		<SimpleData name="Y">42.871648766872255</SimpleData>
+		<SimpleData name="DipDir_mea">256</SimpleData>
+		<SimpleData name="Dip_measur">42</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">166</SimpleData>
+		<SimpleData name="Dip_mea_st">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18093198056752,42.8716487668723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.180553476009990</SimpleData>
+		<SimpleData name="Y">42.872025176408485</SimpleData>
+		<SimpleData name="DipDir_mea">244</SimpleData>
+		<SimpleData name="Dip_measur">44</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">154</SimpleData>
+		<SimpleData name="Dip_mea_st">44</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18055347600999,42.8720251764085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.178213285637210</SimpleData>
+		<SimpleData name="Y">42.870232764046506</SimpleData>
+		<SimpleData name="DipDir_mea">272</SimpleData>
+		<SimpleData name="Dip_measur">20</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">182</SimpleData>
+		<SimpleData name="Dip_mea_st">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17821328563721,42.8702327640465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.182837581025236</SimpleData>
+		<SimpleData name="Y">42.870486834831546</SimpleData>
+		<SimpleData name="DipDir_mea">260</SimpleData>
+		<SimpleData name="Dip_measur">70</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">170</SimpleData>
+		<SimpleData name="Dip_mea_st">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18283758102524,42.8704868348315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.183160885182438</SimpleData>
+		<SimpleData name="Y">42.870975931515019</SimpleData>
+		<SimpleData name="DipDir_mea">52</SimpleData>
+		<SimpleData name="Dip_measur">62</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">322</SimpleData>
+		<SimpleData name="Dip_mea_st">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18316088518244,42.870975931515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.186842896324174</SimpleData>
+		<SimpleData name="Y">42.871238807436590</SimpleData>
+		<SimpleData name="DipDir_mea">312</SimpleData>
+		<SimpleData name="Dip_measur">70</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">222</SimpleData>
+		<SimpleData name="Dip_mea_st">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18684289632417,42.8712388074366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.179025556926612</SimpleData>
+		<SimpleData name="Y">42.872441486113892</SimpleData>
+		<SimpleData name="DipDir_mea">230</SimpleData>
+		<SimpleData name="Dip_measur">43</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">140</SimpleData>
+		<SimpleData name="Dip_mea_st">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17902555692661,42.8724414861139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.180697628465104</SimpleData>
+		<SimpleData name="Y">42.873337129999456</SimpleData>
+		<SimpleData name="DipDir_mea">258</SimpleData>
+		<SimpleData name="Dip_measur">34</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">168</SimpleData>
+		<SimpleData name="Dip_mea_st">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1806976284651,42.8733371299995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.181810215599286</SimpleData>
+		<SimpleData name="Y">42.872946726795917</SimpleData>
+		<SimpleData name="DipDir_mea">272</SimpleData>
+		<SimpleData name="Dip_measur">30</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">182</SimpleData>
+		<SimpleData name="Dip_mea_st">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18181021559929,42.8729467267959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.179668695970888</SimpleData>
+		<SimpleData name="Y">42.874365269594954</SimpleData>
+		<SimpleData name="DipDir_mea">258</SimpleData>
+		<SimpleData name="Dip_measur">44</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">168</SimpleData>
+		<SimpleData name="Dip_mea_st">44</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17966869597089,42.874365269595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.179082173161622</SimpleData>
+		<SimpleData name="Y">42.874745636070472</SimpleData>
+		<SimpleData name="DipDir_mea">274</SimpleData>
+		<SimpleData name="Dip_measur">12</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">184</SimpleData>
+		<SimpleData name="Dip_mea_st">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17908217316162,42.8747456360705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.177832477295500</SimpleData>
+		<SimpleData name="Y">42.872284101392758</SimpleData>
+		<SimpleData name="DipDir_mea">228</SimpleData>
+		<SimpleData name="Dip_measur">23</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">138</SimpleData>
+		<SimpleData name="Dip_mea_st">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1778324772955,42.8722841013928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.187043746526452</SimpleData>
+		<SimpleData name="Y">42.872765784364852</SimpleData>
+		<SimpleData name="DipDir_mea">302</SimpleData>
+		<SimpleData name="Dip_measur">65</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">212</SimpleData>
+		<SimpleData name="Dip_mea_st">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18704374652645,42.8727657843649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.186387375348770</SimpleData>
+		<SimpleData name="Y">42.873939944932985</SimpleData>
+		<SimpleData name="DipDir_mea">290</SimpleData>
+		<SimpleData name="Dip_measur">88</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">200</SimpleData>
+		<SimpleData name="Dip_mea_st">88</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18638737534877,42.873939944933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.185942146298304</SimpleData>
+		<SimpleData name="Y">42.877280223087340</SimpleData>
+		<SimpleData name="DipDir_mea">278</SimpleData>
+		<SimpleData name="Dip_measur">86</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">188</SimpleData>
+		<SimpleData name="Dip_mea_st">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1859421462983,42.8772802230873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.184594812415610</SimpleData>
+		<SimpleData name="Y">42.877612114448887</SimpleData>
+		<SimpleData name="DipDir_mea">244</SimpleData>
+		<SimpleData name="Dip_measur">38</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">154</SimpleData>
+		<SimpleData name="Dip_mea_st">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18459481241561,42.8776121144489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.184111551945888</SimpleData>
+		<SimpleData name="Y">42.878836985300687</SimpleData>
+		<SimpleData name="DipDir_mea">126</SimpleData>
+		<SimpleData name="Dip_measur">66</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">36</SimpleData>
+		<SimpleData name="Dip_mea_st">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18411155194589,42.8788369853007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.185272993173920</SimpleData>
+		<SimpleData name="Y">42.878787797964023</SimpleData>
+		<SimpleData name="DipDir_mea">264</SimpleData>
+		<SimpleData name="Dip_measur">40</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">174</SimpleData>
+		<SimpleData name="Dip_mea_st">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18527299317392,42.878787797964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.185222653916376</SimpleData>
+		<SimpleData name="Y">42.876321447108921</SimpleData>
+		<SimpleData name="DipDir_mea">110</SimpleData>
+		<SimpleData name="Dip_measur">80</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">20</SimpleData>
+		<SimpleData name="Dip_mea_st">80</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18522265391638,42.8763214471089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.184474567263430</SimpleData>
+		<SimpleData name="Y">42.875939518897432</SimpleData>
+		<SimpleData name="DipDir_mea">0</SimpleData>
+		<SimpleData name="Dip_measur">80</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">270</SimpleData>
+		<SimpleData name="Dip_mea_st">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18447456726343,42.8759395188974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.183663554491396</SimpleData>
+		<SimpleData name="Y">42.875855944633194</SimpleData>
+		<SimpleData name="DipDir_mea">196</SimpleData>
+		<SimpleData name="Dip_measur">52</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">106</SimpleData>
+		<SimpleData name="Dip_mea_st">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1836635544914,42.8758559446332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.181406391151498</SimpleData>
+		<SimpleData name="Y">42.876079088891657</SimpleData>
+		<SimpleData name="DipDir_mea">214</SimpleData>
+		<SimpleData name="Dip_measur">18</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">124</SimpleData>
+		<SimpleData name="Dip_mea_st">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1814063911515,42.8760790888917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.180308139209156</SimpleData>
+		<SimpleData name="Y">42.875487692595030</SimpleData>
+		<SimpleData name="DipDir_mea">222</SimpleData>
+		<SimpleData name="Dip_measur">28</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">132</SimpleData>
+		<SimpleData name="Dip_mea_st">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18030813920915,42.875487692595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.179539862458184</SimpleData>
+		<SimpleData name="Y">42.880094770946243</SimpleData>
+		<SimpleData name="DipDir_mea">354</SimpleData>
+		<SimpleData name="Dip_measur">36</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">264</SimpleData>
+		<SimpleData name="Dip_mea_st">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17953986245818,42.8800947709462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.183861368498130</SimpleData>
+		<SimpleData name="Y">42.880768784264475</SimpleData>
+		<SimpleData name="DipDir_mea">158</SimpleData>
+		<SimpleData name="Dip_measur">20</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">68</SimpleData>
+		<SimpleData name="Dip_mea_st">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18386136849813,42.8807687842645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.187070406917774</SimpleData>
+		<SimpleData name="Y">42.880797546617153</SimpleData>
+		<SimpleData name="DipDir_mea">290</SimpleData>
+		<SimpleData name="Dip_measur">64</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">200</SimpleData>
+		<SimpleData name="Dip_mea_st">64</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18707040691777,42.8807975466172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.183395531948516</SimpleData>
+		<SimpleData name="Y">42.882488582194426</SimpleData>
+		<SimpleData name="DipDir_mea">258</SimpleData>
+		<SimpleData name="Dip_measur">14</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">168</SimpleData>
+		<SimpleData name="Dip_mea_st">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18339553194852,42.8824885821944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.177508732479084</SimpleData>
+		<SimpleData name="Y">42.883267103367110</SimpleData>
+		<SimpleData name="DipDir_mea">80</SimpleData>
+		<SimpleData name="Dip_measur">38</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">350</SimpleData>
+		<SimpleData name="Dip_mea_st">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17750873247908,42.8832671033671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.181245031999292</SimpleData>
+		<SimpleData name="Y">42.883313009108683</SimpleData>
+		<SimpleData name="DipDir_mea">72</SimpleData>
+		<SimpleData name="Dip_measur">34</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">342</SimpleData>
+		<SimpleData name="Dip_mea_st">34</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18124503199929,42.8833130091087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.183643094035858</SimpleData>
+		<SimpleData name="Y">42.883258269782907</SimpleData>
+		<SimpleData name="DipDir_mea">114</SimpleData>
+		<SimpleData name="Dip_measur">26</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">24</SimpleData>
+		<SimpleData name="Dip_mea_st">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18364309403586,42.8832582697829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.185943576293666</SimpleData>
+		<SimpleData name="Y">42.883907717046057</SimpleData>
+		<SimpleData name="DipDir_mea">118</SimpleData>
+		<SimpleData name="Dip_measur">70</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">28</SimpleData>
+		<SimpleData name="Dip_mea_st">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18594357629367,42.8839077170461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.180568757289062</SimpleData>
+		<SimpleData name="Y">42.888098430880632</SimpleData>
+		<SimpleData name="DipDir_mea">116</SimpleData>
+		<SimpleData name="Dip_measur">80</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">26</SimpleData>
+		<SimpleData name="Dip_mea_st">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18056875728906,42.8880984308806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.179908940565236</SimpleData>
+		<SimpleData name="Y">42.889182570335628</SimpleData>
+		<SimpleData name="DipDir_mea">116</SimpleData>
+		<SimpleData name="Dip_measur">78</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">26</SimpleData>
+		<SimpleData name="Dip_mea_st">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17990894056524,42.8891825703356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.182785458146694</SimpleData>
+		<SimpleData name="Y">42.889145747300525</SimpleData>
+		<SimpleData name="DipDir_mea">120</SimpleData>
+		<SimpleData name="Dip_measur">80</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">30</SimpleData>
+		<SimpleData name="Dip_mea_st">80</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18278545814669,42.8891457473005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.177633907569204</SimpleData>
+		<SimpleData name="Y">42.890999826799202</SimpleData>
+		<SimpleData name="DipDir_mea">124</SimpleData>
+		<SimpleData name="Dip_measur">86</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">34</SimpleData>
+		<SimpleData name="Dip_mea_st">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1776339075692,42.8909998267992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.176229472083762</SimpleData>
+		<SimpleData name="Y">42.892503327096207</SimpleData>
+		<SimpleData name="DipDir_mea">118</SimpleData>
+		<SimpleData name="Dip_measur">86</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">28</SimpleData>
+		<SimpleData name="Dip_mea_st">86</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17622947208376,42.8925033270962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.175341034493000</SimpleData>
+		<SimpleData name="Y">42.891268555972253</SimpleData>
+		<SimpleData name="DipDir_mea">118</SimpleData>
+		<SimpleData name="Dip_measur">76</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">28</SimpleData>
+		<SimpleData name="Dip_mea_st">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.175341034493,42.8912685559723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.174352640980170</SimpleData>
+		<SimpleData name="Y">42.889279275618968</SimpleData>
+		<SimpleData name="DipDir_mea">308</SimpleData>
+		<SimpleData name="Dip_measur">56</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">218</SimpleData>
+		<SimpleData name="Dip_mea_st">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17435264098017,42.889279275619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.173289883823922</SimpleData>
+		<SimpleData name="Y">42.882032604074723</SimpleData>
+		<SimpleData name="DipDir_mea">90</SimpleData>
+		<SimpleData name="Dip_measur">30</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">0</SimpleData>
+		<SimpleData name="Dip_mea_st">30</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17328988382392,42.8820326040747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.177871220943166</SimpleData>
+		<SimpleData name="Y">42.884520874949445</SimpleData>
+		<SimpleData name="DipDir_mea">110</SimpleData>
+		<SimpleData name="Dip_measur">20</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">20</SimpleData>
+		<SimpleData name="Dip_mea_st">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17787122094317,42.8845208749495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.177246135218550</SimpleData>
+		<SimpleData name="Y">42.880327534616754</SimpleData>
+		<SimpleData name="DipDir_mea">68</SimpleData>
+		<SimpleData name="Dip_measur">48</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">338</SimpleData>
+		<SimpleData name="Dip_mea_st">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17724613521855,42.8803275346168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.175154734663440</SimpleData>
+		<SimpleData name="Y">42.879349764880473</SimpleData>
+		<SimpleData name="DipDir_mea">68</SimpleData>
+		<SimpleData name="Dip_measur">32</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">338</SimpleData>
+		<SimpleData name="Dip_mea_st">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17515473466344,42.8793497648805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.175835428882092</SimpleData>
+		<SimpleData name="Y">42.877815014766185</SimpleData>
+		<SimpleData name="DipDir_mea">80</SimpleData>
+		<SimpleData name="Dip_measur">58</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">350</SimpleData>
+		<SimpleData name="Dip_mea_st">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17583542888209,42.8778150147662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.176429274509336</SimpleData>
+		<SimpleData name="Y">42.878686191797293</SimpleData>
+		<SimpleData name="DipDir_mea">72</SimpleData>
+		<SimpleData name="Dip_measur">36</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">342</SimpleData>
+		<SimpleData name="Dip_mea_st">36</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17642927450933,42.8786861917973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.174871185318812</SimpleData>
+		<SimpleData name="Y">42.876158452527854</SimpleData>
+		<SimpleData name="DipDir_mea">82</SimpleData>
+		<SimpleData name="Dip_measur">32</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">352</SimpleData>
+		<SimpleData name="Dip_mea_st">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17487118531881,42.8761584525279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.173998913473288</SimpleData>
+		<SimpleData name="Y">42.875724786827064</SimpleData>
+		<SimpleData name="DipDir_mea">60</SimpleData>
+		<SimpleData name="Dip_measur">50</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">330</SimpleData>
+		<SimpleData name="Dip_mea_st">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17399891347329,42.8757247868271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.172878709083718</SimpleData>
+		<SimpleData name="Y">42.874854587185709</SimpleData>
+		<SimpleData name="DipDir_mea">60</SimpleData>
+		<SimpleData name="Dip_measur">20</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">330</SimpleData>
+		<SimpleData name="Dip_mea_st">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17287870908372,42.8748545871857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.170917800480542</SimpleData>
+		<SimpleData name="Y">42.874099380576446</SimpleData>
+		<SimpleData name="DipDir_mea">36</SimpleData>
+		<SimpleData name="Dip_measur">36</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">306</SimpleData>
+		<SimpleData name="Dip_mea_st">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17091780048054,42.8740993805764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.169709437286272</SimpleData>
+		<SimpleData name="Y">42.872807596106725</SimpleData>
+		<SimpleData name="DipDir_mea">38</SimpleData>
+		<SimpleData name="Dip_measur">30</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">308</SimpleData>
+		<SimpleData name="Dip_mea_st">30</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16970943728627,42.8728075961067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.175112717842376</SimpleData>
+		<SimpleData name="Y">42.872578957316477</SimpleData>
+		<SimpleData name="DipDir_mea">52</SimpleData>
+		<SimpleData name="Dip_measur">24</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">322</SimpleData>
+		<SimpleData name="Dip_mea_st">24</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17511271784238,42.8725789573165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.174075532953380</SimpleData>
+		<SimpleData name="Y">42.872328522187814</SimpleData>
+		<SimpleData name="DipDir_mea">52</SimpleData>
+		<SimpleData name="Dip_measur">48</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">322</SimpleData>
+		<SimpleData name="Dip_mea_st">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17407553295338,42.8723285221878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.173150761968666</SimpleData>
+		<SimpleData name="Y">42.872490163829717</SimpleData>
+		<SimpleData name="DipDir_mea">58</SimpleData>
+		<SimpleData name="Dip_measur">48</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">328</SimpleData>
+		<SimpleData name="Dip_mea_st">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17315076196867,42.8724901638297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.171402479136564</SimpleData>
+		<SimpleData name="Y">42.872559368974230</SimpleData>
+		<SimpleData name="DipDir_mea">12</SimpleData>
+		<SimpleData name="Dip_measur">20</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">282</SimpleData>
+		<SimpleData name="Dip_mea_st">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17140247913656,42.8725593689742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.172517486912812</SimpleData>
+		<SimpleData name="Y">42.872934418205602</SimpleData>
+		<SimpleData name="DipDir_mea">14</SimpleData>
+		<SimpleData name="Dip_measur">22</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">284</SimpleData>
+		<SimpleData name="Dip_mea_st">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17251748691281,42.8729344182056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.176753942957132</SimpleData>
+		<SimpleData name="Y">42.872250592667619</SimpleData>
+		<SimpleData name="DipDir_mea">314</SimpleData>
+		<SimpleData name="Dip_measur">18</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">224</SimpleData>
+		<SimpleData name="Dip_mea_st">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17675394295713,42.8722505926676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.176063232497256</SimpleData>
+		<SimpleData name="Y">42.871408272642505</SimpleData>
+		<SimpleData name="DipDir_mea">302</SimpleData>
+		<SimpleData name="Dip_measur">12</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">212</SimpleData>
+		<SimpleData name="Dip_mea_st">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17606323249726,42.8714082726425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.176648161889632</SimpleData>
+		<SimpleData name="Y">42.870982927806160</SimpleData>
+		<SimpleData name="DipDir_mea">270</SimpleData>
+		<SimpleData name="Dip_measur">24</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">180</SimpleData>
+		<SimpleData name="Dip_mea_st">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17664816188963,42.8709829278062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.166908444947080</SimpleData>
+		<SimpleData name="Y">42.871482932377575</SimpleData>
+		<SimpleData name="DipDir_mea">40</SimpleData>
+		<SimpleData name="Dip_measur">30</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">David</SimpleData>
+		<SimpleData name="Strike_rhr">310</SimpleData>
+		<SimpleData name="Dip_mea_st">30</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16690844494708,42.8714829323776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.169138453053328</SimpleData>
+		<SimpleData name="Y">42.870837363477051</SimpleData>
+		<SimpleData name="DipDir_mea">35</SimpleData>
+		<SimpleData name="Dip_measur">18</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">305</SimpleData>
+		<SimpleData name="Dip_mea_st">18</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16913845305333,42.8708373634771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.178208524890158</SimpleData>
+		<SimpleData name="Y">42.882623450447610</SimpleData>
+		<SimpleData name="DipDir_mea">65</SimpleData>
+		<SimpleData name="Dip_measur">45</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">335</SimpleData>
+		<SimpleData name="Dip_mea_st">45</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17820852489016,42.8826234504476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.178049679261502</SimpleData>
+		<SimpleData name="Y">42.883328847069592</SimpleData>
+		<SimpleData name="DipDir_mea">68</SimpleData>
+		<SimpleData name="Dip_measur">34</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">338</SimpleData>
+		<SimpleData name="Dip_mea_st">34</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.1780496792615,42.8833288470696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.186503441198066</SimpleData>
+		<SimpleData name="Y">42.883464791643902</SimpleData>
+		<SimpleData name="DipDir_mea">112</SimpleData>
+		<SimpleData name="Dip_measur">72</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">22</SimpleData>
+		<SimpleData name="Dip_mea_st">72</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18650344119807,42.8834647916439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.187210318895870</SimpleData>
+		<SimpleData name="Y">42.884063608169569</SimpleData>
+		<SimpleData name="DipDir_mea">121</SimpleData>
+		<SimpleData name="Dip_measur">78</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">SantaLucia</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">31</SimpleData>
+		<SimpleData name="Dip_mea_st">78</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18721031889587,42.8840636081696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.182245269449238</SimpleData>
+		<SimpleData name="Y">42.870354054428915</SimpleData>
+		<SimpleData name="DipDir_mea">241</SimpleData>
+		<SimpleData name="Dip_measur">49</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">151</SimpleData>
+		<SimpleData name="Dip_mea_st">49</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18224526944924,42.8703540544289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.184899559922408</SimpleData>
+		<SimpleData name="Y">42.871329955634799</SimpleData>
+		<SimpleData name="DipDir_mea">224</SimpleData>
+		<SimpleData name="Dip_measur">36</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">134</SimpleData>
+		<SimpleData name="Dip_mea_st">36</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18489955992241,42.8713299556348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.184504006298438</SimpleData>
+		<SimpleData name="Y">42.874345108689901</SimpleData>
+		<SimpleData name="DipDir_mea">286</SimpleData>
+		<SimpleData name="Dip_measur">35</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">196</SimpleData>
+		<SimpleData name="Dip_mea_st">35</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18450400629844,42.8743451086899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.180140516733128</SimpleData>
+		<SimpleData name="Y">42.876985681694947</SimpleData>
+		<SimpleData name="DipDir_mea">252</SimpleData>
+		<SimpleData name="Dip_measur">8</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">162</SimpleData>
+		<SimpleData name="Dip_mea_st">8</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18014051673313,42.8769856816949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.168884465475792</SimpleData>
+		<SimpleData name="Y">42.867780542929722</SimpleData>
+		<SimpleData name="DipDir_mea">46</SimpleData>
+		<SimpleData name="Dip_measur">19</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">316</SimpleData>
+		<SimpleData name="Dip_mea_st">19</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16888446547579,42.8677805429297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.173901118086410</SimpleData>
+		<SimpleData name="Y">42.880958429242071</SimpleData>
+		<SimpleData name="DipDir_mea">76</SimpleData>
+		<SimpleData name="Dip_measur">31</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">346</SimpleData>
+		<SimpleData name="Dip_mea_st">31</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17390111808641,42.8809584292421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.168179586188268</SimpleData>
+		<SimpleData name="Y">42.881211052549261</SimpleData>
+		<SimpleData name="DipDir_mea">8</SimpleData>
+		<SimpleData name="Dip_measur">37</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Barrios</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">278</SimpleData>
+		<SimpleData name="Dip_mea_st">37</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16817958618827,42.8812110525493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.160525196281292</SimpleData>
+		<SimpleData name="Y">42.871693669200418</SimpleData>
+		<SimpleData name="DipDir_mea">50</SimpleData>
+		<SimpleData name="Dip_measur">42</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">320</SimpleData>
+		<SimpleData name="Dip_mea_st">42</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16052519628129,42.8716936692004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.158733631414172</SimpleData>
+		<SimpleData name="Y">42.872979146736917</SimpleData>
+		<SimpleData name="DipDir_mea">36</SimpleData>
+		<SimpleData name="Dip_measur">13</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">306</SimpleData>
+		<SimpleData name="Dip_mea_st">13</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.15873363141417,42.8729791467369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.157951534736668</SimpleData>
+		<SimpleData name="Y">42.875830410864630</SimpleData>
+		<SimpleData name="DipDir_mea">69</SimpleData>
+		<SimpleData name="Dip_measur">8</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">339</SimpleData>
+		<SimpleData name="Dip_mea_st">8</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.15795153473667,42.8758304108646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.179559127052760</SimpleData>
+		<SimpleData name="Y">42.887595388122683</SimpleData>
+		<SimpleData name="DipDir_mea">105</SimpleData>
+		<SimpleData name="Dip_measur">78</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Lancara</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">15</SimpleData>
+		<SimpleData name="Dip_mea_st">78</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17955912705276,42.8875953881227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.183416135834594</SimpleData>
+		<SimpleData name="Y">42.892789652780550</SimpleData>
+		<SimpleData name="DipDir_mea">302</SimpleData>
+		<SimpleData name="Dip_measur">88</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">SantaLucia</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">212</SimpleData>
+		<SimpleData name="Dip_mea_st">88</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18341613583459,42.8927896527806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.172055518671272</SimpleData>
+		<SimpleData name="Y">42.893960359534233</SimpleData>
+		<SimpleData name="DipDir_mea">121</SimpleData>
+		<SimpleData name="Dip_measur">90</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">31</SimpleData>
+		<SimpleData name="Dip_mea_st">90</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17205551867127,42.8939603595342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.168159719603646</SimpleData>
+		<SimpleData name="Y">42.893574996175353</SimpleData>
+		<SimpleData name="DipDir_mea">124</SimpleData>
+		<SimpleData name="Dip_measur">86</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Barrios</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">34</SimpleData>
+		<SimpleData name="Dip_mea_st">86</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16815971960365,42.8935749961754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.163687555336088</SimpleData>
+		<SimpleData name="Y">42.893866752641181</SimpleData>
+		<SimpleData name="DipDir_mea">128</SimpleData>
+		<SimpleData name="Dip_measur">81</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Formigoso</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">38</SimpleData>
+		<SimpleData name="Dip_mea_st">81</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16368755533609,42.8938667526412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.159638063720830</SimpleData>
+		<SimpleData name="Y">42.894339458489704</SimpleData>
+		<SimpleData name="DipDir_mea">94</SimpleData>
+		<SimpleData name="Dip_measur">85</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">SanPedro</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">4</SimpleData>
+		<SimpleData name="Dip_mea_st">85</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.15963806372083,42.8943394584897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.163729791715320</SimpleData>
+		<SimpleData name="Y">42.889471621733506</SimpleData>
+		<SimpleData name="DipDir_mea">32</SimpleData>
+		<SimpleData name="Dip_measur">40</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Barrios</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">302</SimpleData>
+		<SimpleData name="Dip_mea_st">40</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16372979171532,42.8894716217335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.159495223526884</SimpleData>
+		<SimpleData name="Y">42.882176688535090</SimpleData>
+		<SimpleData name="DipDir_mea">51</SimpleData>
+		<SimpleData name="Dip_measur">38</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">321</SimpleData>
+		<SimpleData name="Dip_mea_st">38</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.15949522352688,42.8821766885351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.161983386578760</SimpleData>
+		<SimpleData name="Y">42.873133913850928</SimpleData>
+		<SimpleData name="DipDir_mea">6</SimpleData>
+		<SimpleData name="Dip_measur">32</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">276</SimpleData>
+		<SimpleData name="Dip_mea_st">32</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16198338657876,42.8731339138509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.182296446103558</SimpleData>
+		<SimpleData name="Y">42.863122220354512</SimpleData>
+		<SimpleData name="DipDir_mea">253</SimpleData>
+		<SimpleData name="Dip_measur">36</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Oville</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">163</SimpleData>
+		<SimpleData name="Dip_mea_st">36</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18229644610356,42.8631222203545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.176075088539118</SimpleData>
+		<SimpleData name="Y">42.862340206223749</SimpleData>
+		<SimpleData name="DipDir_mea">276</SimpleData>
+		<SimpleData name="Dip_measur">29</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Manuel</SimpleData>
+		<SimpleData name="Strike_rhr">186</SimpleData>
+		<SimpleData name="Dip_mea_st">29</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17607508853912,42.8623402062237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.171163027974594</SimpleData>
+		<SimpleData name="Y">42.862937772030698</SimpleData>
+		<SimpleData name="DipDir_mea">295</SimpleData>
+		<SimpleData name="Dip_measur">24</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Huergas</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">205</SimpleData>
+		<SimpleData name="Dip_mea_st">24</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17116302797459,42.8629377720307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.163231387425078</SimpleData>
+		<SimpleData name="Y">42.865753400310446</SimpleData>
+		<SimpleData name="DipDir_mea">16</SimpleData>
+		<SimpleData name="Dip_measur">16</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">SantaLucia</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">286</SimpleData>
+		<SimpleData name="Dip_mea_st">16</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.16323138742508,42.8657534003104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Bedding_all_crop_WGS">
+		<SimpleData name="X">-5.182089401224280</SimpleData>
+		<SimpleData name="Y">42.875808923719966</SimpleData>
+		<SimpleData name="DipDir_mea">214</SimpleData>
+		<SimpleData name="Dip_measur">27</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+		<SimpleData name="Formation">Portilla</SimpleData>
+		<SimpleData name="Source">Calculated</SimpleData>
+		<SimpleData name="Strike_rhr">124</SimpleData>
+		<SimpleData name="Dip_mea_st">27</SimpleData>
+		<SimpleData name="Map_exerci">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18208940122428,42.87580892372</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
